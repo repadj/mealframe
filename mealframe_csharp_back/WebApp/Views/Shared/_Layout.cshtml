@@ -1,0 +1,60 @@
+﻿@using App.Domain.Identity
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@inject SignInManager<AppUser> SignInManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - MealFrame</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/WebApp.styles.css" asp-append-version="true"/>
+</head>
+<body>
+<div class="d-flex">
+    <!-- Left Sidebar (Navigation) -->
+    <nav class="sidebar p-3">
+        <h4 class="text-center">MealFrame</h4>
+
+        <ul class="nav flex-column">
+            <li class="nav-item partial-login">
+                <partial name="_LoginPartial" />
+            </li>
+
+            <li class="nav-item">
+                <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">@Base.Resources.Common.Home</a>
+            </li>
+
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Entities">Entities</a>
+                </li>
+            }
+
+            <li class="nav-item language-selector">
+                <partial name="_LanguageSelection"/>
+            </li>
+        </ul>
+    </nav>
+
+
+    <!-- Main Content -->
+    <div class="flex-grow-1 p-3">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @RenderSection("RightSidebar", required: false)
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

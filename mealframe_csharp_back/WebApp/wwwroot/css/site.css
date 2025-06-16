@@ -1,0 +1,132 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color: black; /* Sets black background */
+  color: white; /* Sets white text */
+  margin-bottom: 60px;
+}
+
+
+
+/* NAVIGATION Sidebar Navigation */
+.sidebar {
+  background-color: black; /* Black background */
+  border-right: 3px solid #679f67; /* Green right border */
+  width: 250px;
+  height: 100vh; /* Full height */
+  padding: 20px 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Sidebar Title */
+.sidebar h4 {
+  color: white;
+  font-size: 200%;
+  text-align: center;
+  margin-bottom: 30px; /* Space below title */
+}
+
+/* Navigation List */
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1; /* Takes available space, allows pushing */
+}
+
+/* Navigation Buttons */
+.nav-item {
+  margin-bottom: 12px; /* Space between buttons */
+}
+
+.nav-item .nav-link,
+.partial-login .btn {
+  display: block;
+  background-color: black;
+  color: white;
+  border: 2px solid #679f67;
+  border-radius: 12px; /* More rounded corners */
+  padding: 12px;
+  text-align: center;
+  transition: 0.3s;
+  width: 100%;
+}
+
+/* Hover Effect */
+.nav-item .nav-link:hover,
+.partial-login .btn:hover {
+  background-color: #679f67;
+  color: black;
+}
+
+/* Language Selection - Always at Bottom */
+.language-selector {
+  margin-top: auto; /* Pushes the language selector to the bottom */
+}
+
+/* Dropdown menu items hover effect */
+.dropdown-menu .dropdown-item:hover {
+  background-color: #333; /* Darker gray to keep contrast */
+}
+
+
+/* Homepage */
+/* Homepage Container */
+.homepage-container {
+  display: flex;
+  align-items: stretch; /* Ensures both sidebars align properly */
+  height: 100vh;
+}
+
+/* Main Content */
+.main-content {
+  flex-grow: 1; /* Takes available space */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Right Sidebar */
+.right-sidebar {
+  background-color: black; /* Black background */
+  border-left: 3px solid #679f67; /* Green border on left side */
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  padding: 20px 15px;
+}
+
+
+
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}

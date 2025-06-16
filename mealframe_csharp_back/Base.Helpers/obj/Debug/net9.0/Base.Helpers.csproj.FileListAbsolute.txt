@@ -1,0 +1,12 @@
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/bin/Debug/net9.0/Base.Helpers.deps.json
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/bin/Debug/net9.0/Base.Helpers.dll
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/bin/Debug/net9.0/Base.Helpers.pdb
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/Base.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/Base.Helpers.AssemblyInfoInputs.cache
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/Base.Helpers.AssemblyInfo.cs
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/Base.Helpers.csproj.CoreCompileInputs.cache
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/Base.Helpers.dll
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/refint/Base.Helpers.dll
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/Base.Helpers.pdb
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/ref/Base.Helpers.dll
+/Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/Base.Helpers.csproj.AssemblyReference.cache

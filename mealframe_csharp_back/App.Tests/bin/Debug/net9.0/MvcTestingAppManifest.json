@@ -1,0 +1,20 @@
+{
+  "App.BLL.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/App.BLL.Contracts",
+  "App.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/App.BLL",
+  "APP.BLL.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/APP.BLL.DTO",
+  "App.DAL.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/App.DAL.Contracts",
+  "App.DAL.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/App.DAL.DTO",
+  "App.DAL.EF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/App.DAL.EF",
+  "App.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/App.Domain",
+  "App.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/App.DTO",
+  "App.Resources, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/App.Resources",
+  "Base.BLL.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/Base.BLL.Contracts",
+  "Base.BLL, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/Base.BLL",
+  "Base.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/Base.Contracts",
+  "Base.DAL.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/Base.DAL.Contracts",
+  "Base.DAL.EF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/Base.DAL.EF",
+  "Base.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/Base.Domain",
+  "Base.Helpers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/Base.Helpers",
+  "Base.Resources, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/Base.Resources",
+  "WebApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Users\/reno\/icd0024-24-25-s\/csharpproject\/WebApp"
+}

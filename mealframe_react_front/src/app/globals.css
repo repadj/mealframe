@@ -1,0 +1,96 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: auto;
+    overflow-x: hidden;
+    background-color: black;
+}
+
+.outer-container {
+    margin-left: 300px;
+    display: flex;
+    align-items: flex-start;
+    height: 100vh;
+    width: calc(100vw - 300px);
+    background-color: black;
+    color: white;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    background-color: black;
+    border-right: 3px solid #679f67;
+    padding: 20px 15px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.avatar-circle {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    background-color: #171717;
+    border: 5px solid #679f67;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ccc;
+    font-size: 2rem;
+    font-weight: bold;
+    user-select: none;
+}
+
+
+.app-title {
+    color: #679f67;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.welcome-text {
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.nav-buttons {
+    flex-grow: 1;
+}
+
+.button {
+    display: block;
+    background-color: black;
+    color: white;
+    border: 2px solid #679f67;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 12px;
+    width: 100%;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    text-decoration: none;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #1a1a1a;
+}
+
+.logout-button {
+    margin-top: auto;
+}

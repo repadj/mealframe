@@ -1,0 +1,112 @@
+.landing-page {
+    height: 100vh;
+    width: 100vw;
+    background: url("../../../public/background_site.png") no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    background-color: black;
+}
+
+.landing-page::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+}
+
+.auth-box {
+    position: relative;
+    z-index: 1;
+    background-color: black;
+    border: 2px solid #679f67;
+    border-radius: 16px;
+    padding: 2rem;
+    width: 450px;
+    color: white;
+
+}
+
+.title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #679f67;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.custom-input {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    font-size: 1rem;
+}
+
+.custom-input:focus {
+    outline: none;
+    border: 2px solid #679f67;
+}
+
+.btn-primary {
+    background-color: #679f67 !important;
+    border: none !important;
+    color: black !important;
+    font-weight: bold;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.btn-primary:hover {
+    background-color: #5a8b59 !important;
+}
+
+.auth-box h2 {
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.auth-box input {
+    background-color: white;
+    color: black;
+}
+
+.auth-box input::placeholder {
+    color: #666;
+}
+
+.auth-box .btn-primary {
+    margin-top: 1rem;
+    background-color: #679f67;
+    border: none;
+    color: black;
+}
+
+.auth-box .btn-primary:hover {
+    background-color: #5a8b59;
+}
+
+.toggle-text {
+    text-align: center;
+    color: white;
+    margin-top: 1rem;
+}
+
+.toggle-button {
+    background: none;
+    border: none;
+    color: #679f67;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0;
+}
+
+.toggle-button:hover {
+    text-decoration: underline;
+}

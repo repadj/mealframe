@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "Base.BLL.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Base.Contracts": "1.0.0",
+          "Base.DAL.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Base.BLL.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Base.BLL.Contracts.dll": {}
+        }
+      },
+      "Base.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Base.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Base.Contracts.dll": {}
+        }
+      },
+      "Base.DAL.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Base.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Base.DAL.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Base.DAL.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Base.BLL.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Base.BLL.Contracts/Base.BLL.Contracts.csproj",
+      "msbuildProject": "../Base.BLL.Contracts/Base.BLL.Contracts.csproj"
+    },
+    "Base.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Base.Contracts/Base.Contracts.csproj",
+      "msbuildProject": "../Base.Contracts/Base.Contracts.csproj"
+    },
+    "Base.DAL.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Base.DAL.Contracts/Base.DAL.Contracts.csproj",
+      "msbuildProject": "../Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Base.BLL.Contracts >= 1.0.0",
+      "Base.DAL.Contracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/reno/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL/Base.BLL.csproj",
+      "projectName": "Base.BLL",
+      "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL/Base.BLL.csproj",
+      "packagesPath": "/Users/reno/.nuget/packages/",
+      "outputPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/reno/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL.Contracts/Base.BLL.Contracts.csproj": {
+              "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL.Contracts/Base.BLL.Contracts.csproj"
+            },
+            "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+              "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

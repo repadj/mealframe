@@ -1,0 +1,114 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Update="Domain\Recipe.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>Recipe.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\Category.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>Category.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\MealEntry.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>MealEntry.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\MealPlan.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>MealPlan.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\NutritionalGoal.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>NutritionalGoal.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\PlansOfUser.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>PlansOfUser.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\Product.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>Product.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\RecipeIngredient.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>RecipeIngredient.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\SavedRecipe.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>SavedRecipe.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\ShoppingItem.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>ShoppingItem.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Domain\ShoppingList.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>ShoppingList.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Domain\Recipe.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>Recipe.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\Category.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>Category.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\MealEntry.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>MealEntry.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\MealPlan.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>MealPlan.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\NutritionalGoal.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>NutritionalGoal.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\PlansOfUser.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>PlansOfUser.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\Product.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>Product.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\RecipeIngredient.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>RecipeIngredient.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\SavedRecipe.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>SavedRecipe.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\ShoppingItem.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>ShoppingItem.resx</DependentUpon>
+      </Compile>
+      <Compile Update="Domain\ShoppingList.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>ShoppingList.resx</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>

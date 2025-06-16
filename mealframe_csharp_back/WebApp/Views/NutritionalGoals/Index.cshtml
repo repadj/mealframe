@@ -1,0 +1,101 @@
+@model IEnumerable<App.Domain.NutritionalGoal>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CalorieTarget)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProteinTarget)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FatTarget)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SugarTarget)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarbsTarget)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SaltTarget)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CreatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedBy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UpdatedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SysNotes)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CalorieTarget)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProteinTarget)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FatTarget)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SugarTarget)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarbsTarget)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SaltTarget)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Firstname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SysNotes)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

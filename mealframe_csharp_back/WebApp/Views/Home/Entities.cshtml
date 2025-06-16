@@ -1,0 +1,37 @@
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Entities";
+}
+
+<div>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="SavedRecipes" asp-action="Index">@App.Resources.Domain.SavedRecipe.SavedRecipes</a>
+    </li>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="MealPlans" asp-action="Index">@App.Resources.Domain.MealPlan.MealPlans</a>
+    </li>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="MealEntries" asp-action="Index">@App.Resources.Domain.MealEntry.MealEntries</a>
+    </li>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="Recipes" asp-action="Index">@App.Resources.Domain.Recipe.Recipes</a>
+    </li>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="Products" asp-action="Index">@App.Resources.Domain.Product.Products</a>
+    </li>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="RecipeIngredients" asp-action="Index">@App.Resources.Domain.RecipeIngredient.RecipeIngredients</a>
+    </li>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="Categories" asp-action="Index">@App.Resources.Domain.Category.Categories</a>
+    </li>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="ShoppingItems" asp-action="Index">@App.Resources.Domain.ShoppingItem.ShoppingItems</a>
+    </li>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="ShoppingLists" asp-action="Index">@App.Resources.Domain.ShoppingList.ShoppingLists</a>
+    </li>
+    <li>
+        <a class="nav-link" asp-area="" asp-controller="NutritionalGoals" asp-action="Index">@App.Resources.Domain.NutritionalGoal.NutritionalGoals</a>
+    </li>
+</div>

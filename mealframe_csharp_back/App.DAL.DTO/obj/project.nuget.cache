@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nLF3F2Nu3pk=",
+  "dgSpecHash": "tNZF4YgEOKc=",
   "success": true,
-  "projectFilePath": "/Users/reno/icd0024-24-25-s/csharpproject/App.DAL.DTO/App.DAL.DTO.csproj",
+  "projectFilePath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/App.DAL.DTO/App.DAL.DTO.csproj",
   "expectedPackageFiles": [
     "/Users/reno/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/reno/.nuget/packages/microsoft.aspnetcore.cryptography.internal/9.0.3/microsoft.aspnetcore.cryptography.internal.9.0.3.nupkg.sha512",

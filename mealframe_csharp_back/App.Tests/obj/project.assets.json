@@ -11166,11 +11166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/reno/icd0024-24-25-s/csharpproject/App.Tests/App.Tests.csproj",
+      "projectUniqueName": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/App.Tests/App.Tests.csproj",
       "projectName": "App.Tests",
-      "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/App.Tests/App.Tests.csproj",
+      "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/App.Tests/App.Tests.csproj",
       "packagesPath": "/Users/reno/.nuget/packages/",
-      "outputPath": "/Users/reno/icd0024-24-25-s/csharpproject/App.Tests/obj/",
+      "outputPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/App.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/reno/.nuget/NuGet/NuGet.Config"
@@ -11185,14 +11185,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/reno/icd0024-24-25-s/csharpproject/App.DAL.EF/App.DAL.EF.csproj": {
-              "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/App.DAL.EF/App.DAL.EF.csproj"
+            "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/App.DAL.EF/App.DAL.EF.csproj": {
+              "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/App.DAL.EF/App.DAL.EF.csproj"
             },
-            "/Users/reno/icd0024-24-25-s/csharpproject/App.DTO/App.DTO.csproj": {
-              "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/App.DTO/App.DTO.csproj"
+            "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/App.DTO/App.DTO.csproj": {
+              "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/App.DTO/App.DTO.csproj"
             },
-            "/Users/reno/icd0024-24-25-s/csharpproject/WebApp/WebApp.csproj": {
-              "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/WebApp/WebApp.csproj"
+            "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/WebApp.csproj": {
+              "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/WebApp.csproj"
             }
           }
         }

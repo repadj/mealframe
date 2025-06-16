@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL/Base.BLL.csproj",
+      "projectUniqueName": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.BLL/Base.BLL.csproj",
       "projectName": "Base.BLL",
-      "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL/Base.BLL.csproj",
+      "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.BLL/Base.BLL.csproj",
       "packagesPath": "/Users/reno/.nuget/packages/",
-      "outputPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL/obj/",
+      "outputPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.BLL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/reno/.nuget/NuGet/NuGet.Config"
@@ -89,11 +89,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL.Contracts/Base.BLL.Contracts.csproj": {
-              "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.BLL.Contracts/Base.BLL.Contracts.csproj"
+            "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.BLL.Contracts/Base.BLL.Contracts.csproj": {
+              "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.BLL.Contracts/Base.BLL.Contracts.csproj"
             },
-            "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
-              "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+            "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+              "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
             }
           }
         }

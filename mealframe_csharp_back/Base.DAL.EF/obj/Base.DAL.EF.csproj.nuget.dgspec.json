@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.EF/Base.DAL.EF.csproj": {}
+    "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.EF/Base.DAL.EF.csproj": {}
   },
   "projects": {
-    "/Users/reno/icd0024-24-25-s/csharpproject/Base.Contracts/Base.Contracts.csproj": {
+    "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Contracts/Base.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/reno/icd0024-24-25-s/csharpproject/Base.Contracts/Base.Contracts.csproj",
+        "projectUniqueName": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Contracts/Base.Contracts.csproj",
         "projectName": "Base.Contracts",
-        "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.Contracts/Base.Contracts.csproj",
+        "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Contracts/Base.Contracts.csproj",
         "packagesPath": "/Users/reno/.nuget/packages/",
-        "outputPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.Contracts/obj/",
+        "outputPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/reno/.nuget/NuGet/NuGet.Config"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+    "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/Base.DAL.Contracts.csproj",
+        "projectUniqueName": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.Contracts/Base.DAL.Contracts.csproj",
         "projectName": "Base.DAL.Contracts",
-        "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/Base.DAL.Contracts.csproj",
+        "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.Contracts/Base.DAL.Contracts.csproj",
         "packagesPath": "/Users/reno/.nuget/packages/",
-        "outputPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/obj/",
+        "outputPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/reno/.nuget/NuGet/NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/reno/icd0024-24-25-s/csharpproject/Base.Contracts/Base.Contracts.csproj": {
-                "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.Contracts/Base.Contracts.csproj"
+              "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Contracts/Base.Contracts.csproj"
               }
             }
           }
@@ -126,14 +126,14 @@
         }
       }
     },
-    "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.EF/Base.DAL.EF.csproj": {
+    "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.EF/Base.DAL.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.EF/Base.DAL.EF.csproj",
+        "projectUniqueName": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.EF/Base.DAL.EF.csproj",
         "projectName": "Base.DAL.EF",
-        "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.EF/Base.DAL.EF.csproj",
+        "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.EF/Base.DAL.EF.csproj",
         "packagesPath": "/Users/reno/.nuget/packages/",
-        "outputPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.EF/obj/",
+        "outputPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.EF/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/reno/.nuget/NuGet/NuGet.Config"
@@ -148,11 +148,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
-                "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+              "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+                "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
               },
-              "/Users/reno/icd0024-24-25-s/csharpproject/Base.Domain/Base.Domain.csproj": {
-                "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.Domain/Base.Domain.csproj"
+              "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Domain/Base.Domain.csproj": {
+                "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Domain/Base.Domain.csproj"
               }
             }
           }
@@ -198,14 +198,14 @@
         }
       }
     },
-    "/Users/reno/icd0024-24-25-s/csharpproject/Base.Domain/Base.Domain.csproj": {
+    "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Domain/Base.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/reno/icd0024-24-25-s/csharpproject/Base.Domain/Base.Domain.csproj",
+        "projectUniqueName": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Domain/Base.Domain.csproj",
         "projectName": "Base.Domain",
-        "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.Domain/Base.Domain.csproj",
+        "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Domain/Base.Domain.csproj",
         "packagesPath": "/Users/reno/.nuget/packages/",
-        "outputPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.Domain/obj/",
+        "outputPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/reno/.nuget/NuGet/NuGet.Config"
@@ -220,8 +220,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/reno/icd0024-24-25-s/csharpproject/Base.Contracts/Base.Contracts.csproj": {
-                "projectPath": "/Users/reno/icd0024-24-25-s/csharpproject/Base.Contracts/Base.Contracts.csproj"
+              "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Contracts/Base.Contracts.csproj"
               }
             }
           }

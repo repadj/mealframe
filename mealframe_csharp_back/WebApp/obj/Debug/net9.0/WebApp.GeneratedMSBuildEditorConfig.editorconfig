@@ -17,413 +17,413 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApp
 build_property.RootNamespace = WebApp
-build_property.ProjectDir = /Users/reno/icd0024-24-25-s/csharpproject/WebApp/
+build_property.ProjectDir = /Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/reno/icd0024-24-25-s/csharpproject/WebApp
+build_property.MSBuildProjectDirectory = /Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Db25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Db25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9FeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Lockout.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Login.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Logout.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9NYW5hZ2UvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/Register.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/Error.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/_ViewImports.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Categories/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Categories/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Categories/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Categories/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Categories/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Home/Entities.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Home/Entities.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9FbnRpdGllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Home/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Home/Privacy.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealEntries/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealEntries/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbEVudHJpZXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealEntries/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealEntries/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbEVudHJpZXMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealEntries/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealEntries/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbEVudHJpZXMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealEntries/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealEntries/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbEVudHJpZXMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealEntries/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealEntries/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbEVudHJpZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealPlans/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealPlans/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbFBsYW5zL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealPlans/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealPlans/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbFBsYW5zL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealPlans/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealPlans/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbFBsYW5zL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealPlans/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealPlans/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbFBsYW5zL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/MealPlans/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/MealPlans/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVhbFBsYW5zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/NutritionalGoals/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/NutritionalGoals/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnV0cml0aW9uYWxHb2Fscy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/NutritionalGoals/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/NutritionalGoals/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnV0cml0aW9uYWxHb2Fscy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/NutritionalGoals/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/NutritionalGoals/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnV0cml0aW9uYWxHb2Fscy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/NutritionalGoals/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/NutritionalGoals/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnV0cml0aW9uYWxHb2Fscy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/NutritionalGoals/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/NutritionalGoals/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTnV0cml0aW9uYWxHb2Fscy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Products/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Products/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Products/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Products/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Products/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Products/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Products/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Products/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/RecipeIngredients/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/RecipeIngredients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlSW5ncmVkaWVudHMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/RecipeIngredients/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/RecipeIngredients/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlSW5ncmVkaWVudHMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/RecipeIngredients/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/RecipeIngredients/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlSW5ncmVkaWVudHMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/RecipeIngredients/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/RecipeIngredients/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlSW5ncmVkaWVudHMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/RecipeIngredients/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/RecipeIngredients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlSW5ncmVkaWVudHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Recipes/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Recipes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlcy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Recipes/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Recipes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlcy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Recipes/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Recipes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlcy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Recipes/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Recipes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlcy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Recipes/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Recipes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVjaXBlcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/SavedRecipes/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/SavedRecipes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2F2ZWRSZWNpcGVzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/SavedRecipes/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/SavedRecipes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2F2ZWRSZWNpcGVzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/SavedRecipes/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/SavedRecipes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2F2ZWRSZWNpcGVzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/SavedRecipes/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/SavedRecipes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2F2ZWRSZWNpcGVzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/SavedRecipes/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/SavedRecipes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2F2ZWRSZWNpcGVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Shared/Error.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Shared/_LanguageSelection.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Shared/_LanguageSelection.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYW5ndWFnZVNlbGVjdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Shared/_LoginPartial.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingItems/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingItems/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdJdGVtcy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingItems/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingItems/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdJdGVtcy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingItems/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingItems/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdJdGVtcy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingItems/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingItems/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdJdGVtcy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingItems/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingItems/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdJdGVtcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingLists/Create.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingLists/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdMaXN0cy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingLists/Delete.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingLists/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdMaXN0cy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingLists/Details.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingLists/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdMaXN0cy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingLists/Edit.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingLists/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdMaXN0cy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/ShoppingLists/Index.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/ShoppingLists/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdMaXN0cy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/_ViewImports.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/_ViewStart.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/reno/icd0024-24-25-s/csharpproject/WebApp/Views/Shared/_Layout.cshtml]
+[/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/WebApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-wrkb45jn1q

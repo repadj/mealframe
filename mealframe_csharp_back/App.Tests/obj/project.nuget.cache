@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8H2Rc2woB9o=",
+  "dgSpecHash": "6XyWvlb/Qpw=",
   "success": true,
-  "projectFilePath": "/Users/reno/icd0024-24-25-s/csharpproject/App.Tests/App.Tests.csproj",
+  "projectFilePath": "/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/App.Tests/App.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/reno/.nuget/packages/asp.versioning.abstractions/8.1.0/asp.versioning.abstractions.8.1.0.nupkg.sha512",
     "/Users/reno/.nuget/packages/asp.versioning.http/8.1.0/asp.versioning.http.8.1.0.nupkg.sha512",

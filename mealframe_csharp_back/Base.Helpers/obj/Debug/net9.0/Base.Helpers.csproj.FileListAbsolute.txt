@@ -10,3 +10,16 @@
 /Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/Base.Helpers.pdb
 /Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/ref/Base.Helpers.dll
 /Users/reno/icd0024-24-25-s/csharpproject/Base.Helpers/obj/Debug/net9.0/Base.Helpers.csproj.AssemblyReference.cache
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/bin/Debug/net9.0/Base.Helpers.deps.json
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/bin/Debug/net9.0/Base.Helpers.dll
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/bin/Debug/net9.0/Base.Helpers.pdb
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/Base.Helpers.csproj.AssemblyReference.cache
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/Base.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/Base.Helpers.AssemblyInfoInputs.cache
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/Base.Helpers.AssemblyInfo.cs
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/Base.Helpers.csproj.CoreCompileInputs.cache
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/Base.Helpers.sourcelink.json
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/Base.Helpers.dll
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/refint/Base.Helpers.dll
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/Base.Helpers.pdb
+/Users/reno/taltech_courses/mealframe/mealframe_csharp_back/Base.Helpers/obj/Debug/net9.0/ref/Base.Helpers.dll
